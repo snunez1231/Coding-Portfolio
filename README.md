@@ -8,7 +8,7 @@ Welcome to the repository for my Coding Bootcamp projects and homework! This col
 
 
 ## Installation
-There is no specific installation process for this repository. You can simply clone or download the project to explore the code and view the projects. git clone https://github.com/your-username/cu-coding-bootcamp-portfolio.git
+There is no specific installation process for this repository. You can simply clone or download the project to explore the code and view the projects. git clone https://github.com/snunez1231/Coding-Portfolio.git
 
 ## Usage
 This repository serves as a portfolio to share the completed projects and homework assignments I've worked on during the Coding Bootcamp. Each project is organized into its own directory, containing the necessary files and code.
